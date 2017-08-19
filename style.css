@@ -3240,3 +3240,6 @@ blockquote {
 .erro_wrapper .home_btn .trust_btn:hover::before{
 	background: #222;
 }
+.center{
+  margin:0 auto;
+}
